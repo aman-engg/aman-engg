@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Aman!
-🎓 I'm a 2nd-year Software Engineering student passionate about building cool things with code and exploring the world of tech.
+Hi there, I'm Aman!
+       I am a student of Software Engineering at UBIT, Karachi University — passionate about App Development, Data Science, and Machine Learning.  Here is my collection of projects and coding experiments as I learn, build, and grow in tech.
 
  🧠 Skills & Interests
 
@@ -7,15 +7,7 @@
   `Dart` | `Flutter` | `Python`
 
 - 📚 **Currently Learning:**  
-  - Python frameworks (e.g., Django, Flask)
+  - Python frameworks (e.g.Django)
   - Data Science & Machine Learning
-  - Clean Code & Software Architecture
-
- 🎯 Goals
-
-- Dive deep into Python frameworks
-- Build real-world data science & ML projects
-- Contribute to open-source
-- Grow my GitHub and build a strong tech portfolio
 
 “Code is like humor. When you have to explain it, it’s bad.”
