@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aman!
+🎓 I'm a 2nd-year Software Engineering student passionate about building cool things with code and exploring the world of tech.
 
-<!--
-**amanmanii/amanmanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🧠 Skills & Interests
 
-Here are some ideas to get you started:
+- 💻 **Languages & Tools:**  
+  `Dart` | `Flutter` | `Python`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Currently Learning:**  
+  - Python frameworks (e.g., Django, Flask)
+  - Data Science & Machine Learning
+  - Clean Code & Software Architecture
+
+ 🎯 Goals
+
+- Dive deep into Python frameworks
+- Build real-world data science & ML projects
+- Contribute to open-source
+- Grow my GitHub and build a strong tech portfolio
+
+“Code is like humor. When you have to explain it, it’s bad.”
