@@ -9,5 +9,6 @@ Hi there, I'm Aman!
 - 📚 **Currently Learning:**  
   - Python frameworks (e.g.Django)
   - Data Science & Machine Learning
+  - Java (DSA)
 
 “Code is like humor. When you have to explain it, it’s bad.”
