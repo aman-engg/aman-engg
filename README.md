@@ -3,6 +3,6 @@ Hi there, I'm Aman!
 
  🧠 Skills & Interests
 - 💻 **Languages & Tools:**  
-  `Dart` | `Flutter` | `Python` |  `JavaScript` |  `React Native`
+  `Dart` | `Flutter` | `Python` |  `AI/ML` | 
 
 “Code is like humor. When you have to explain it, it’s bad.”
